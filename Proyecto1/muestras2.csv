@@ -1,0 +1,8 @@
+codigo,descripcion,patron
+MQA-01,Muestra de pollo 1,6;9;1;6;3;5;4;9;5;3;9;2;1;3;1;7;1;1;9;6;4;7;9;3;9;8;2;7;4;2;9;3;1;5;6;8
+MQA-02,Muestra de pollo 2,18;27;3;18;9;15;12;27;15;9;27;6;3;9;3;21;3;3;27;18;12;21;27;9;27;24;6;21;12;6;27;9;3;15;18;24
+MQA-03,Muestra bovina 1, 1;7;2;4
+MQA-04,Muestra bovina 2, 3;21;6;12
+MQA-05,Muestra bovina 3, 45;315;90;180
+MQA-06,Muestra de cerdo 1, 9;5;17;16;4;12;12;82;3
+MQA-07,Muestra de cerdo 2, 45;25;85;80;20;60;60;410;15
