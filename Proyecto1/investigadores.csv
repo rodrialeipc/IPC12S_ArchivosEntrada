@@ -1,4 +1,4 @@
-codigo, nombre, genero, cantidad_analisis, contrasenia
+codigo, nombre, genero, experimentos, contrasenia
 INV-01,Juan Moreira,M,10,1234
 INV-02,Ana Perez,F,3,1234
 INV-03,Carlos Soto,M,4,1234
