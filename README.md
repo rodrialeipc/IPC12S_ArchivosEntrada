@@ -5,3 +5,4 @@ Archivos de entrada para las calificaciones del laboratorio de Introducción a l
 ## 📌 Contenido
 
 - [🤒 Archivos Proyecto 1](./Proyecto1/)
+- [🛠️ Archivos Práctica 1](./Práctica1/)
