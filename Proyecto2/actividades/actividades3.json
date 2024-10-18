@@ -1,0 +1,164 @@
+[
+    {
+        "nombre": "Hoja de Trabajo 1",
+        "descripcion": "Ejercicios de lógica de sistemas.",
+        "ponderacion": 9,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 65},
+            {"carnet": 201900026, "nota": 70},
+            {"carnet": 201900027, "nota": 75},
+            {"carnet": 201900028, "nota": 80},
+            {"carnet": 201900029, "nota": 68},
+            {"carnet": 201900030, "nota": 72},
+            {"carnet": 201900031, "nota": 78},
+            {"carnet": 201900032, "nota": 74},
+            {"carnet": 201900033, "nota": 66},
+            {"carnet": 201900034, "nota": 69}
+        ]
+    },
+    {
+        "nombre": "Hoja de Trabajo 2",
+        "descripcion": "Resolución de problemas lógicos.",
+        "ponderacion": 9,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 70},
+            {"carnet": 201900026, "nota": 75},
+            {"carnet": 201900027, "nota": 80},
+            {"carnet": 201900028, "nota": 65},
+            {"carnet": 201900029, "nota": 72},
+            {"carnet": 201900030, "nota": 78},
+            {"carnet": 201900031, "nota": 74},
+            {"carnet": 201900032, "nota": 69},
+            {"carnet": 201900033, "nota": 68},
+            {"carnet": 201900034, "nota": 76}
+        ]
+    },
+    {
+        "nombre": "Hoja de Trabajo 3",
+        "descripcion": "Análisis de sistemas lógicos.",
+        "ponderacion": 9,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 75},
+            {"carnet": 201900026, "nota": 80},
+            {"carnet": 201900027, "nota": 65},
+            {"carnet": 201900028, "nota": 72},
+            {"carnet": 201900029, "nota": 78},
+            {"carnet": 201900030, "nota": 70},
+            {"carnet": 201900031, "nota": 76},
+            {"carnet": 201900032, "nota": 69},
+            {"carnet": 201900033, "nota": 68},
+            {"carnet": 201900034, "nota": 74}
+        ]
+    },
+    {
+        "nombre": "Hoja de Trabajo 4",
+        "descripcion": "Ejercicios prácticos de lógica de sistemas.",
+        "ponderacion": 9,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 68},
+            {"carnet": 201900026, "nota": 72},
+            {"carnet": 201900027, "nota": 75},
+            {"carnet": 201900028, "nota": 80},
+            {"carnet": 201900029, "nota": 70},
+            {"carnet": 201900030, "nota": 76},
+            {"carnet": 201900031, "nota": 78},
+            {"carnet": 201900032, "nota": 65},
+            {"carnet": 201900033, "nota": 74},
+            {"carnet": 201900034, "nota": 69}
+        ]
+    },
+    {
+        "nombre": "Hoja de Trabajo 5",
+        "descripcion": "Desarrollo de un sistema lógico.",
+        "ponderacion": 9,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 70},
+            {"carnet": 201900026, "nota": 75},
+            {"carnet": 201900027, "nota": 80},
+            {"carnet": 201900028, "nota": 65},
+            {"carnet": 201900029, "nota": 72},
+            {"carnet": 201900030, "nota": 78},
+            {"carnet": 201900031, "nota": 74},
+            {"carnet": 201900032, "nota": 69},
+            {"carnet": 201900033, "nota": 68},
+            {"carnet": 201900034, "nota": 76}
+        ]
+    },
+    {
+        "nombre": "Examen Parcial 1",
+        "descripcion": "Evaluación de lógica de sistemas.",
+        "ponderacion": 10,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 78},
+            {"carnet": 201900026, "nota": 80},
+            {"carnet": 201900027, "nota": 75},
+            {"carnet": 201900028, "nota": 70},
+            {"carnet": 201900029, "nota": 65},
+            {"carnet": 201900030, "nota": 72},
+            {"carnet": 201900031, "nota": 76},
+            {"carnet": 201900032, "nota": 68},
+            {"carnet": 201900033, "nota": 74},
+            {"carnet": 201900034, "nota": 69}
+        ]
+    },
+    {
+        "nombre": "Examen Parcial 2",
+        "descripcion": "Evaluación de conceptos avanzados de lógica.",
+        "ponderacion": 10,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 75},
+            {"carnet": 201900026, "nota": 78},
+            {"carnet": 201900027, "nota": 80},
+            {"carnet": 201900028, "nota": 70},
+            {"carnet": 201900029, "nota": 65},
+            {"carnet": 201900030, "nota": 72},
+            {"carnet": 201900031, "nota": 76},
+            {"carnet": 201900032, "nota": 68},
+            {"carnet": 201900033, "nota": 74},
+            {"carnet": 201900034, "nota": 69}
+        ]
+    },
+    {
+        "nombre": "Examen Parcial 3",
+        "descripcion": "Evaluación final de lógica de sistemas.",
+        "ponderacion": 10,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 80},
+            {"carnet": 201900026, "nota": 75},
+            {"carnet": 201900027, "nota": 70},
+            {"carnet": 201900028, "nota": 65},
+            {"carnet": 201900029, "nota": 72},
+            {"carnet": 201900030, "nota": 76},
+            {"carnet": 201900031, "nota": 68},
+            {"carnet": 201900032, "nota": 74},
+            {"carnet": 201900033, "nota": 69},
+            {"carnet": 201900034, "nota": 78}
+        ]
+    },
+    {
+        "nombre": "Examen Final",
+        "descripcion": "Evaluación integral del curso de lógica de sistemas.",
+        "ponderacion": 25,
+        "profesor": "ECYSP-003",
+        "notas": [
+            {"carnet": 201900025, "nota": 85},
+            {"carnet": 201900026, "nota": 80},
+            {"carnet": 201900027, "nota": 75},
+            {"carnet": 201900028, "nota": 70},
+            {"carnet": 201900029, "nota": 65},
+            {"carnet": 201900030, "nota": 72},
+            {"carnet": 201900031, "nota": 76},
+            {"carnet": 201900032, "nota": 68},
+            {"carnet": 201900033, "nota": 74},
+            {"carnet": 201900034, "nota": 69}
+        ]
+    }
+]

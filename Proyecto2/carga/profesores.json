@@ -1,0 +1,212 @@
+[
+    {
+        "codigo": "ECYSP-001",
+        "nombre": "Guillermo Peitzner",
+        "correo": "g@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-002",
+        "nombre": "Ingrid Pérez",
+        "correo": "c@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-003",
+        "nombre": "Sofía Martínez",
+        "correo": "sofia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-004",
+        "nombre": "Carlos Gómez",
+        "correo": "carlos@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-005",
+        "nombre": "María López",
+        "correo": "maria@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-006",
+        "nombre": "José Rodríguez",
+        "correo": "jose@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-007",
+        "nombre": "Ana Torres",
+        "correo": "ana@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-008",
+        "nombre": "Luis Fernández",
+        "correo": "luis@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-009",
+        "nombre": "Laura Sánchez",
+        "correo": "laura@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-010",
+        "nombre": "Diego Morales",
+        "correo": "diego@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-011",
+        "nombre": "Claudia Ruiz",
+        "correo": "claudia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-012",
+        "nombre": "Fernando Díaz",
+        "correo": "fernando@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-013",
+        "nombre": "Patricia Jiménez",
+        "correo": "patricia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-014",
+        "nombre": "Javier Castro",
+        "correo": "javier@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-015",
+        "nombre": "Verónica Herrera",
+        "correo": "veronica@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-016",
+        "nombre": "Andrés Romero",
+        "correo": "andres@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-017",
+        "nombre": "Gabriela Mendoza",
+        "correo": "gabriela@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-018",
+        "nombre": "Ricardo Salazar",
+        "correo": "ricardo@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-019",
+        "nombre": "Isabel Paredes",
+        "correo": "isabel@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-020",
+        "nombre": "Samuel Ortega",
+        "correo": "samuel@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-021",
+        "nombre": "Natalia Silva",
+        "correo": "natalia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-022",
+        "nombre": "Hugo Cordero",
+        "correo": "hugo@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-023",
+        "nombre": "Carmen Aguirre",
+        "correo": "carmen@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-024",
+        "nombre": "Alberto Ríos",
+        "correo": "alberto@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-025",
+        "nombre": "Lucía Castro",
+        "correo": "lucia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-026",
+        "nombre": "Esteban León",
+        "correo": "esteban@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-027",
+        "nombre": "Mónica Soto",
+        "correo": "monica@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-028",
+        "nombre": "Pablo Vega",
+        "correo": "pablo@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-029",
+        "nombre": "Silvia Morales",
+        "correo": "silvia@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "codigo": "ECYSP-030",
+        "nombre": "Jorge Castillo",
+        "correo": "jorge@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    }
+]

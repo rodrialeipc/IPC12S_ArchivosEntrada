@@ -1,0 +1,1115 @@
+[
+    {
+        "carnet": "202400000",
+        "nombre": "Guillermo 1",
+        "correo": "guillermo1@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400001",
+        "nombre": "Ingrid 1",
+        "correo": "ingrid1@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400004",
+        "nombre": "Diego 3",
+        "correo": "diego3@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400005",
+        "nombre": "María 3",
+        "correo": "maria3@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400007",
+        "nombre": "Ana 4",
+        "correo": "ana4@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400008",
+        "nombre": "Hugo 5",
+        "correo": "hugo5@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400009",
+        "nombre": "Laura 5",
+        "correo": "laura5@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400010",
+        "nombre": "Esteban 6",
+        "correo": "esteban6@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400011",
+        "nombre": "Claudia 6",
+        "correo": "claudia6@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400012",
+        "nombre": "Jorge 7",
+        "correo": "jorge7@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400013",
+        "nombre": "Patricia 7",
+        "correo": "patricia7@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400014",
+        "nombre": "Carlos 8",
+        "correo": "carlos8@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400016",
+        "nombre": "Luis 9",
+        "correo": "luis9@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400017",
+        "nombre": "Gabriela 9",
+        "correo": "gabriela9@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400018",
+        "nombre": "Fernando 10",
+        "correo": "fernando10@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400019",
+        "nombre": "Isabel 10",
+        "correo": "isabel10@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400020",
+        "nombre": "Ricardo 11",
+        "correo": "ricardo11@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400021",
+        "nombre": "Natalia 11",
+        "correo": "natalia11@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400022",
+        "nombre": "Alberto 12",
+        "correo": "alberto12@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400023",
+        "nombre": "Carmen 12",
+        "correo": "carmen12@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400024",
+        "nombre": "Pablo 13",
+        "correo": "pablo13@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400026",
+        "nombre": "Guillermo 14",
+        "correo": "guillermo14@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400028",
+        "nombre": "José 15",
+        "correo": "jose15@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400030",
+        "nombre": "Diego 16",
+        "correo": "diego16@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400032",
+        "nombre": "Andrés 17",
+        "correo": "andres17@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400034",
+        "nombre": "Hugo 18",
+        "correo": "hugo18@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400036",
+        "nombre": "Esteban 19",
+        "correo": "esteban19@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400038",
+        "nombre": "Jorge 20",
+        "correo": "jorge20@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400040",
+        "nombre": "Carlos 21",
+        "correo": "carlos21@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400042",
+        "nombre": "Luis 22",
+        "correo": "luis22@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400044",
+        "nombre": "Fernando 23",
+        "correo": "fernando23@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400046",
+        "nombre": "Ricardo 24",
+        "correo": "ricardo24@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400048",
+        "nombre": "Alberto 25",
+        "correo": "alberto25@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400050",
+        "nombre": "Pablo 26",
+        "correo": "pablo26@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400052",
+        "nombre": "Guillermo 27",
+        "correo": "guillermo27@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400054",
+        "nombre": "Diego 28",
+        "correo": "diego28@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400056",
+        "nombre": "Hugo 29",
+        "correo": "hugo29@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400058",
+        "nombre": "Esteban 30",
+        "correo": "esteban30@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400060",
+        "nombre": "Jorge 31",
+        "correo": "jorge31@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400062",
+        "nombre": "Fernando 32",
+        "correo": "fernando32@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400064",
+        "nombre": "Luis 33",
+        "correo": "luis33@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400066",
+        "nombre": "Ricardo 34",
+        "correo": "ricardo34@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400068",
+        "nombre": "Carlos 35",
+        "correo": "carlos35@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400070",
+        "nombre": "Fernando 36",
+        "correo": "fernando36@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400072",
+        "nombre": "Luis 37",
+        "correo": "luis37@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400074",
+        "nombre": "Fernando 38",
+        "correo": "fernando38@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400076",
+        "nombre": "Ricardo 39",
+        "correo": "ricardo39@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400078",
+        "nombre": "Guillermo 40",
+        "correo": "guillermo40@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400080",
+        "nombre": "José 41",
+        "correo": "jose41@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400082",
+        "nombre": "Diego 42",
+        "correo": "diego42@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400084",
+        "nombre": "Andrés 43",
+        "correo": "andres43@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400086",
+        "nombre": "Hugo 44",
+        "correo": "hugo44@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400088",
+        "nombre": "Esteban 45",
+        "correo": "esteban45@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400090",
+        "nombre": "Jorge 46",
+        "correo": "jorge46@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400092",
+        "nombre": "Carlos 47",
+        "correo": "carlos47@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400094",
+        "nombre": "Luis 48",
+        "correo": "luis48@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400096",
+        "nombre": "Fernando 49",
+        "correo": "fernando49@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400098",
+        "nombre": "Ricardo 50",
+        "correo": "ricardo50@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400100",
+        "nombre": "Alberto 51",
+        "correo": "alberto51@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400102",
+        "nombre": "Pablo 52",
+        "correo": "pablo52@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400104",
+        "nombre": "Guillermo 53",
+        "correo": "guillermo53@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400106",
+        "nombre": "José 54",
+        "correo": "jose54@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400108",
+        "nombre": "Diego 55",
+        "correo": "diego55@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400110",
+        "nombre": "Andrés 56",
+        "correo": "andres56@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400112",
+        "nombre": "Hugo 57",
+        "correo": "hugo57@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400114",
+        "nombre": "Esteban 58",
+        "correo": "esteban58@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400116",
+        "nombre": "Jorge 59",
+        "correo": "jorge59@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400118",
+        "nombre": "Carlos 60",
+        "correo": "carlos60@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400120",
+        "nombre": "Luis 61",
+        "correo": "luis61@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400122",
+        "nombre": "Fernando 62",
+        "correo": "fernando62@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400124",
+        "nombre": "Ricardo 63",
+        "correo": "ricardo63@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400126",
+        "nombre": "Alberto 64",
+        "correo": "alberto64@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400128",
+        "nombre": "Pablo 65",
+        "correo": "pablo65@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400130",
+        "nombre": "Guillermo 66",
+        "correo": "guillermo66@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400132",
+        "nombre": "José 67",
+        "correo": "jose67@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400134",
+        "nombre": "Diego 68",
+        "correo": "diego68@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400136",
+        "nombre": "Andrés 69",
+        "correo": "andres69@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400138",
+        "nombre": "Hugo 70",
+        "correo": "hugo70@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400140",
+        "nombre": "Esteban 71",
+        "correo": "esteban71@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400142",
+        "nombre": "Jorge 72",
+        "correo": "jorge72@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400144",
+        "nombre": "Carlos 73",
+        "correo": "carlos73@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400146",
+        "nombre": "Luis 74",
+        "correo": "luis74@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400148",
+        "nombre": "Fernando 75",
+        "correo": "fernando75@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400150",
+        "nombre": "Ricardo 76",
+        "correo": "ricardo76@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400152",
+        "nombre": "Alberto 77",
+        "correo": "alberto77@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400154",
+        "nombre": "Pablo 78",
+        "correo": "pablo78@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400156",
+        "nombre": "Guillermo 79",
+        "correo": "guillermo79@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400158",
+        "nombre": "José 80",
+        "correo": "jose80@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400160",
+        "nombre": "Diego 81",
+        "correo": "diego81@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400162",
+        "nombre": "Andrés 82",
+        "correo": "andres82@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400164",
+        "nombre": "Hugo 83",
+        "correo": "hugo83@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400166",
+        "nombre": "Esteban 84",
+        "correo": "esteban84@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400168",
+        "nombre": "Jorge 85",
+        "correo": "jorge85@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400170",
+        "nombre": "Carlos 86",
+        "correo": "carlos86@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400172",
+        "nombre": "Luis 87",
+        "correo": "luis87@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400174",
+        "nombre": "Fernando 88",
+        "correo": "fernando88@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400176",
+        "nombre": "Ricardo 89",
+        "correo": "ricardo89@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400178",
+        "nombre": "Alberto 90",
+        "correo": "alberto90@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400180",
+        "nombre": "Pablo 91",
+        "correo": "pablo91@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400182",
+        "nombre": "Guillermo 92",
+        "correo": "guillermo92@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400184",
+        "nombre": "José 93",
+        "correo": "jose93@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400186",
+        "nombre": "Diego 94",
+        "correo": "diego94@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400188",
+        "nombre": "Andrés 95",
+        "correo": "andres95@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400190",
+        "nombre": "Hugo 96",
+        "correo": "hugo96@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400192",
+        "nombre": "Esteban 97",
+        "correo": "esteban97@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400194",
+        "nombre": "Jorge 98",
+        "correo": "jorge98@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400196",
+        "nombre": "Carlos 99",
+        "correo": "carlos99@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400198",
+        "nombre": "Luis 100",
+        "correo": "luis100@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400200",
+        "nombre": "Fernando 101",
+        "correo": "fernando101@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400202",
+        "nombre": "Ricardo 102",
+        "correo": "ricardo102@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400204",
+        "nombre": "Alberto 103",
+        "correo": "alberto103@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400206",
+        "nombre": "Pablo 104",
+        "correo": "pablo104@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400208",
+        "nombre": "Guillermo 105",
+        "correo": "guillermo105@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400210",
+        "nombre": "José 106",
+        "correo": "jose106@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400212",
+        "nombre": "Diego 107",
+        "correo": "diego107@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400214",
+        "nombre": "Andrés 108",
+        "correo": "andres108@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400216",
+        "nombre": "Hugo 109",
+        "correo": "hugo109@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400218",
+        "nombre": "Esteban 110",
+        "correo": "esteban110@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400220",
+        "nombre": "Jorge 111",
+        "correo": "jorge111@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400222",
+        "nombre": "Carlos 112",
+        "correo": "carlos112@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400224",
+        "nombre": "Luis 113",
+        "correo": "luis113@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400226",
+        "nombre": "Fernando 114",
+        "correo": "fernando114@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400228",
+        "nombre": "Ricardo 115",
+        "correo": "ricardo115@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400230",
+        "nombre": "Alberto 116",
+        "correo": "alberto116@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400232",
+        "nombre": "Pablo 117",
+        "correo": "pablo117@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400234",
+        "nombre": "Guillermo 118",
+        "correo": "guillermo118@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400236",
+        "nombre": "José 119",
+        "correo": "jose119@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400238",
+        "nombre": "Diego 120",
+        "correo": "diego120@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400240",
+        "nombre": "Andrés 121",
+        "correo": "andres121@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400242",
+        "nombre": "Hugo 122",
+        "correo": "hugo122@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400244",
+        "nombre": "Esteban 123",
+        "correo": "esteban123@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400246",
+        "nombre": "Jorge 124",
+        "correo": "jorge124@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400248",
+        "nombre": "Carlos 125",
+        "correo": "carlos125@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400250",
+        "nombre": "Luis 126",
+        "correo": "luis126@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400252",
+        "nombre": "Fernando 127",
+        "correo": "fernando127@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400254",
+        "nombre": "Ricardo 128",
+        "correo": "ricardo128@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400256",
+        "nombre": "Alberto 129",
+        "correo": "alberto129@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400258",
+        "nombre": "Pablo 130",
+        "correo": "pablo130@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400260",
+        "nombre": "Guillermo 131",
+        "correo": "guillermo131@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400262",
+        "nombre": "José 132",
+        "correo": "jose132@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400264",
+        "nombre": "Diego 133",
+        "correo": "diego133@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400266",
+        "nombre": "Andrés 134",
+        "correo": "andres134@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400268",
+        "nombre": "Hugo 135",
+        "correo": "hugo135@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400270",
+        "nombre": "Esteban 136",
+        "correo": "esteban136@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400272",
+        "nombre": "Jorge 137",
+        "correo": "jorge137@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400274",
+        "nombre": "Carlos 138",
+        "correo": "carlos138@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400276",
+        "nombre": "Luis 139",
+        "correo": "luis139@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400278",
+        "nombre": "Fernando 140",
+        "correo": "fernando140@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400280",
+        "nombre": "Ricardo 141",
+        "correo": "ricardo141@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400282",
+        "nombre": "Alberto 142",
+        "correo": "alberto142@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400284",
+        "nombre": "Pablo 143",
+        "correo": "pablo143@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400286",
+        "nombre": "Guillermo 144",
+        "correo": "guillermo144@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400288",
+        "nombre": "José 145",
+        "correo": "jose145@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400290",
+        "nombre": "Diego 146",
+        "correo": "diego146@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400292",
+        "nombre": "Andrés 147",
+        "correo": "andres147@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400294",
+        "nombre": "Hugo 148",
+        "correo": "hugo148@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400296",
+        "nombre": "Esteban 149",
+        "correo": "esteban149@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400298",
+        "nombre": "Jorge 150",
+        "correo": "jorge150@gmail.com",
+        "genero": "m",
+        "contrasenia": "1234"
+    },
+    {
+        "carnet": "202400299",
+        "nombre": "Silvia 150",
+        "correo": "silvia150@gmail.com",
+        "genero": "f",
+        "contrasenia": "1234"
+    }
+]
