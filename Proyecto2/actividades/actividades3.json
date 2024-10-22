@@ -5,16 +5,16 @@
         "ponderacion": 9,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 65},
-            {"carnet": 201900026, "nota": 70},
-            {"carnet": 201900027, "nota": 75},
-            {"carnet": 201900028, "nota": 80},
-            {"carnet": 201900029, "nota": 68},
-            {"carnet": 201900030, "nota": 72},
-            {"carnet": 201900031, "nota": 78},
-            {"carnet": 201900032, "nota": 74},
-            {"carnet": 201900033, "nota": 66},
-            {"carnet": 201900034, "nota": 69}
+            {"carnet": 202400025, "nota": 65},
+            {"carnet": 202400026, "nota": 70},
+            {"carnet": 202400027, "nota": 75},
+            {"carnet": 202400028, "nota": 80},
+            {"carnet": 202400029, "nota": 68},
+            {"carnet": 202400030, "nota": 72},
+            {"carnet": 202400031, "nota": 78},
+            {"carnet": 202400032, "nota": 74},
+            {"carnet": 202400033, "nota": 66},
+            {"carnet": 202400034, "nota": 69}
         ]
     },
     {
@@ -23,16 +23,16 @@
         "ponderacion": 9,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 70},
-            {"carnet": 201900026, "nota": 75},
-            {"carnet": 201900027, "nota": 80},
-            {"carnet": 201900028, "nota": 65},
-            {"carnet": 201900029, "nota": 72},
-            {"carnet": 201900030, "nota": 78},
-            {"carnet": 201900031, "nota": 74},
-            {"carnet": 201900032, "nota": 69},
-            {"carnet": 201900033, "nota": 68},
-            {"carnet": 201900034, "nota": 76}
+            {"carnet": 202400025, "nota": 70},
+            {"carnet": 202400026, "nota": 75},
+            {"carnet": 202400027, "nota": 80},
+            {"carnet": 202400028, "nota": 65},
+            {"carnet": 202400029, "nota": 72},
+            {"carnet": 202400030, "nota": 78},
+            {"carnet": 202400031, "nota": 74},
+            {"carnet": 202400032, "nota": 69},
+            {"carnet": 202400033, "nota": 68},
+            {"carnet": 202400034, "nota": 76}
         ]
     },
     {
@@ -41,16 +41,16 @@
         "ponderacion": 9,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 75},
-            {"carnet": 201900026, "nota": 80},
-            {"carnet": 201900027, "nota": 65},
-            {"carnet": 201900028, "nota": 72},
-            {"carnet": 201900029, "nota": 78},
-            {"carnet": 201900030, "nota": 70},
-            {"carnet": 201900031, "nota": 76},
-            {"carnet": 201900032, "nota": 69},
-            {"carnet": 201900033, "nota": 68},
-            {"carnet": 201900034, "nota": 74}
+            {"carnet": 202400025, "nota": 75},
+            {"carnet": 202400026, "nota": 80},
+            {"carnet": 202400027, "nota": 65},
+            {"carnet": 202400028, "nota": 72},
+            {"carnet": 202400029, "nota": 78},
+            {"carnet": 202400030, "nota": 70},
+            {"carnet": 202400031, "nota": 76},
+            {"carnet": 202400032, "nota": 69},
+            {"carnet": 202400033, "nota": 68},
+            {"carnet": 202400034, "nota": 74}
         ]
     },
     {
@@ -59,16 +59,16 @@
         "ponderacion": 9,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 68},
-            {"carnet": 201900026, "nota": 72},
-            {"carnet": 201900027, "nota": 75},
-            {"carnet": 201900028, "nota": 80},
-            {"carnet": 201900029, "nota": 70},
-            {"carnet": 201900030, "nota": 76},
-            {"carnet": 201900031, "nota": 78},
-            {"carnet": 201900032, "nota": 65},
-            {"carnet": 201900033, "nota": 74},
-            {"carnet": 201900034, "nota": 69}
+            {"carnet": 202400025, "nota": 68},
+            {"carnet": 202400026, "nota": 72},
+            {"carnet": 202400027, "nota": 75},
+            {"carnet": 202400028, "nota": 80},
+            {"carnet": 202400029, "nota": 70},
+            {"carnet": 202400030, "nota": 76},
+            {"carnet": 202400031, "nota": 78},
+            {"carnet": 202400032, "nota": 65},
+            {"carnet": 202400033, "nota": 74},
+            {"carnet": 202400034, "nota": 69}
         ]
     },
     {
@@ -77,16 +77,16 @@
         "ponderacion": 9,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 70},
-            {"carnet": 201900026, "nota": 75},
-            {"carnet": 201900027, "nota": 80},
-            {"carnet": 201900028, "nota": 65},
-            {"carnet": 201900029, "nota": 72},
-            {"carnet": 201900030, "nota": 78},
-            {"carnet": 201900031, "nota": 74},
-            {"carnet": 201900032, "nota": 69},
-            {"carnet": 201900033, "nota": 68},
-            {"carnet": 201900034, "nota": 76}
+            {"carnet": 202400025, "nota": 70},
+            {"carnet": 202400026, "nota": 75},
+            {"carnet": 202400027, "nota": 80},
+            {"carnet": 202400028, "nota": 65},
+            {"carnet": 202400029, "nota": 72},
+            {"carnet": 202400030, "nota": 78},
+            {"carnet": 202400031, "nota": 74},
+            {"carnet": 202400032, "nota": 69},
+            {"carnet": 202400033, "nota": 68},
+            {"carnet": 202400034, "nota": 76}
         ]
     },
     {
@@ -95,16 +95,16 @@
         "ponderacion": 10,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 78},
-            {"carnet": 201900026, "nota": 80},
-            {"carnet": 201900027, "nota": 75},
-            {"carnet": 201900028, "nota": 70},
-            {"carnet": 201900029, "nota": 65},
-            {"carnet": 201900030, "nota": 72},
-            {"carnet": 201900031, "nota": 76},
-            {"carnet": 201900032, "nota": 68},
-            {"carnet": 201900033, "nota": 74},
-            {"carnet": 201900034, "nota": 69}
+            {"carnet": 202400025, "nota": 78},
+            {"carnet": 202400026, "nota": 80},
+            {"carnet": 202400027, "nota": 75},
+            {"carnet": 202400028, "nota": 70},
+            {"carnet": 202400029, "nota": 65},
+            {"carnet": 202400030, "nota": 72},
+            {"carnet": 202400031, "nota": 76},
+            {"carnet": 202400032, "nota": 68},
+            {"carnet": 202400033, "nota": 74},
+            {"carnet": 202400034, "nota": 69}
         ]
     },
     {
@@ -113,16 +113,16 @@
         "ponderacion": 10,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 75},
-            {"carnet": 201900026, "nota": 78},
-            {"carnet": 201900027, "nota": 80},
-            {"carnet": 201900028, "nota": 70},
-            {"carnet": 201900029, "nota": 65},
-            {"carnet": 201900030, "nota": 72},
-            {"carnet": 201900031, "nota": 76},
-            {"carnet": 201900032, "nota": 68},
-            {"carnet": 201900033, "nota": 74},
-            {"carnet": 201900034, "nota": 69}
+            {"carnet": 202400025, "nota": 75},
+            {"carnet": 202400026, "nota": 78},
+            {"carnet": 202400027, "nota": 80},
+            {"carnet": 202400028, "nota": 70},
+            {"carnet": 202400029, "nota": 65},
+            {"carnet": 202400030, "nota": 72},
+            {"carnet": 202400031, "nota": 76},
+            {"carnet": 202400032, "nota": 68},
+            {"carnet": 202400033, "nota": 74},
+            {"carnet": 202400034, "nota": 69}
         ]
     },
     {
@@ -131,16 +131,16 @@
         "ponderacion": 10,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 80},
-            {"carnet": 201900026, "nota": 75},
-            {"carnet": 201900027, "nota": 70},
-            {"carnet": 201900028, "nota": 65},
-            {"carnet": 201900029, "nota": 72},
-            {"carnet": 201900030, "nota": 76},
-            {"carnet": 201900031, "nota": 68},
-            {"carnet": 201900032, "nota": 74},
-            {"carnet": 201900033, "nota": 69},
-            {"carnet": 201900034, "nota": 78}
+            {"carnet": 202400025, "nota": 80},
+            {"carnet": 202400026, "nota": 75},
+            {"carnet": 202400027, "nota": 70},
+            {"carnet": 202400028, "nota": 65},
+            {"carnet": 202400029, "nota": 72},
+            {"carnet": 202400030, "nota": 76},
+            {"carnet": 202400031, "nota": 68},
+            {"carnet": 202400032, "nota": 74},
+            {"carnet": 202400033, "nota": 69},
+            {"carnet": 202400034, "nota": 78}
         ]
     },
     {
@@ -149,16 +149,16 @@
         "ponderacion": 25,
         "profesor": "ECYSP-003",
         "notas": [
-            {"carnet": 201900025, "nota": 85},
-            {"carnet": 201900026, "nota": 80},
-            {"carnet": 201900027, "nota": 75},
-            {"carnet": 201900028, "nota": 70},
-            {"carnet": 201900029, "nota": 65},
-            {"carnet": 201900030, "nota": 72},
-            {"carnet": 201900031, "nota": 76},
-            {"carnet": 201900032, "nota": 68},
-            {"carnet": 201900033, "nota": 74},
-            {"carnet": 201900034, "nota": 69}
+            {"carnet": 202400025, "nota": 85},
+            {"carnet": 202400026, "nota": 80},
+            {"carnet": 202400027, "nota": 75},
+            {"carnet": 202400028, "nota": 70},
+            {"carnet": 202400029, "nota": 65},
+            {"carnet": 202400030, "nota": 72},
+            {"carnet": 202400031, "nota": 76},
+            {"carnet": 202400032, "nota": 68},
+            {"carnet": 202400033, "nota": 74},
+            {"carnet": 202400034, "nota": 69}
         ]
     }
 ]
