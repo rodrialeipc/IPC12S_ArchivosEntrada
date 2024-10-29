@@ -265,7 +265,7 @@
     {
         "nombre": "Examen Final",
         "descripcion": "Evaluación integral del curso.",
-        "ponderacion": 100,
+        "ponderacion": 10,
         "profesor": "ECYSP-003",
         "notas": [
             {"carnet": 202400000, "nota": 95},
